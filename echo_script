@@ -1,0 +1,4 @@
+list=`cat /usr/ias/etc/workstations`
+for comp in `echo $list`; do
+    echo $comp
+done

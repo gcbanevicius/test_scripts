@@ -1,0 +1,2 @@
+    echo -n $data >> $OUTFI  #| sed -n '1!p' >> $OUTFI
+
